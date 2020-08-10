@@ -1,0 +1,57 @@
+{% extends "template/roottemplate.html" %}
+
+{% block content %}
+<div class="columns">
+	<div class="column">
+		<p class="title">Contact</p>
+		<div class="content contact-content">
+			<p> <span class="icon is-medium"><i class="fab fa-2x fa-facebook"></i></span> <span><a
+						href="https://www.facebook.com/khoi281298" target="_blank">facebook.com/</a></span>
+			</p>
+			<p> <span class="icon is-medium"><i class="fab fa-2x fa-skype"></i></span> <span><a
+						href="https://join.skype.com/invite/RCNFilpvVBth"
+						target="_blank">Skype:</a></span>
+			</p>
+			<p> <span class="icon is-medium"><i class="fab fa-2x fa-google"></i></span> <span><a
+						href="mailto:quangkhoiuit98@gmail.com?Subject=Phản hồi project nhận diện biển báo giao thông"
+						target="_top">Email:</a></span>
+			</p>
+		</div>
+		<p class="content">All your contributions, suggestions are precious pearls for us increasingly
+perfecting their products. <br>Thank you very much.</p>
+	</div>
+	<div class="is-divider-vertical "></div>
+	<div id="sendMessageFormContainer" class="column">
+		<div class="field">
+			<label class="label">Name</label>
+			<div class="control">
+				<input class="input" snb-key="name" type="text" placeholder="Tên">
+			</div>
+		</div>
+		<div class="field">
+			<label class="label">Email</label>
+			<div class="control">
+				<input class="input" snb-key="email" type="email" placeholder="Email">
+			</div>
+		</div>
+		<div class="field">
+			<label class="label">Message</label>
+			<div class="control">
+				<textarea class="textarea" snb-key="message" placeholder="Lời nhắn"></textarea>
+			</div>
+		</div>
+		<div class="field">
+			<div class="control">
+				<button class="button is-link">Send the message</button>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+	document.addEventListener('DOMContentLoaded', (event) => {
+
+		contactrender.build();
+	});
+</script>
+
+{% endblock %}

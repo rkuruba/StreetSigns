@@ -1,0 +1,44 @@
+{% extends "template/roottemplate.html" %}
+
+{% block content %}
+<div id="guide tabs" class="tabs is-boxed">
+	<ul>
+		<li class="is-active" guide="index">
+			<a>
+				<span>Home page</span>
+			</a>
+		</li>
+		<li guide="trafficinfomation">
+			<a>
+				<span>Look up signs</span>
+			</a>
+		</li>
+	</ul>
+</div>
+<div guide-content="index" class="content ">
+	<p>Step 1: Press the button to select image</p>
+	<figure class="">
+		<img class="object-fit-cover" src="/static/image/indexguide1.png" alt="">
+	</figure>
+	<p>Step 2: Choose an image</p>
+	<figure class="">
+		<img class="object-fit-cover" src="/static/image/indexguide2.png" alt="">
+	</figure>
+	<p>Step 3: See results</p>
+	<figure class="">
+		<img class="object-fit-cover" src="/static/image/indexguide3.png" alt="">
+	</figure>
+</div>
+<div guide-content="trafficinfomation" class="content is-hidden">
+	<figure class="">
+		<img class="object-fit-cover" src="/static/image/trafficinfomation.png" alt="">
+	</figure>
+</div>
+<script>
+	document.addEventListener('DOMContentLoaded', (event) => {
+
+		guiderender.build();
+	});
+</script>
+
+{% endblock %}

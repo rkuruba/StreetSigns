@@ -1,0 +1,320 @@
+[
+    {
+        "trafficid": "-12-",
+        "image": "/static/image/bien-bao-cam-101.jpg",
+        "name": "License plate 101 \"Forbidden road\"",
+        "description": " road signs ban all types of vehicles (motorized and rudimentary) traveling in both directions, except for vehicles prioritized as prescribed."
+    },
+    {
+        "trafficid": "-13-",
+        "image": "/static/image/bien-bao-cam-102.jpg",
+        "name": "License plate 102 \"Do not go in the opposite direction\"",
+        "description": " road signs prohibit all types of vehicles (motorized and rudimentary) from entering the direction of the signboard, except for priority vehicles according to regulations"
+    },
+    {
+        "trafficid": "-0-",
+        "image": "/static/image/ge.jpg",
+        "name": "GE",
+        "description": " GE Logo identified"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-103a.jpg",
+        "name": "License plate 103a \"Prohibition of cars\"",
+        "description": " road signs ban all types of motor vehicles, including 3-wheel motorcycles with passing-by boxes, except for two-wheelers, motorbikes and priority vehicles according to regulations."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-103b.jpg",
+        "name": "License plate 103b \"Cars are not allowed to make a right turn\"",
+        "description": " road signs ban all motor vehicles, including 3-wheeled motorbikes with right turn, except for two-wheeled motorbikes, mopeds and priority vehicles according to regulations."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-103c.jpg",
+        "name": "Plate number 103c \"Cars are prohibited from turning left\"",
+        "description": " road signs ban all motor vehicles, including 3-wheeled motorbikes with left turns, except motorized two-wheelers, mopeds and priority vehicles according to regulations."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-104.jpg",
+        "name": "License plate 104 \"Motorcycle is prohibited\"",
+        "description": "Motorcycle_Prohibition, road signs prohibiting all types of motor vehicles to pass, except for priority motorized vehicles according to regulations."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-105.jpg",
+        "name": "License plate 105 \"Cars and motorcycles are prohibited\"",
+        "description": "road signs ban all passing motor vehicles and motorcycles except motorbikes and priority vehicles as prescribed"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-106a.jpg",
+        "name": "License plate 106a \"Prohibit truck\"",
+        "description": " road signs ban all types of freight cars with a tonnage of 1.5 tons or more, except for vehicles prioritized as prescribed. The sea has a ban effect on both tractors and special-use vehicles."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-106b.jpg",
+        "name": "License plate 106b \"Prohibit truck\"",
+        "description": " have a total weight (weight of vehicles plus goods) in excess of the prescribed number at sea."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-106c.jpg",
+        "name": "Plate number 106c \"Vehicle carrying dangerous goods is prohibited”",
+        "description": " road signs banning dangerous goods vehicles"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-107.jpg",
+        "name": "License plate 107 \"Banning cars \n\t\t\t\t\t\t\t\t\t&nbsp;download\"",
+        "description": " Roads banning passenger cars and trucks, including tractors and special-use construction motorcycles, except for priority vehicles according to regulations."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-108.jpg",
+        "name": "Plate number 108 \"Prohibit cars, tractors or semi-trailers\n\t\t\t\t\t\t\t\t\ttrailers\"",
+        "description": " tractors, trailers or semi-trailers, road signs ban all motor vehicles towing trailers."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-109.jpg",
+        "name": "License plate 109 \"Tractors prohibited\"",
+        "description": " road signs prohibit all passing tractors, including tractor and crawler tractors"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-110a.jpg",
+        "name": "Plate number 110a \"No bicycles are allowed\"",
+        "description": " Road bicycles are prohibited to pass. The sea has no value prohibiting cyclists. "
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-110b.jpg",
+        "name": "License plate 110b \"It is forbidden to pack bikes\"",
+        "description": " Road signs banning heavy bicycles passing. The sea has no value prohibiting bicyclists. This sign does not prohibit the driver of this vehicle."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-111a.jpg",
+        "name": "License plate 111a \"Motorcycle is prohibited\"",
+        "description": "Road signs prohibiting the passing of motorcycles. The sea is not valid for bicycles."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-111b.jpg",
+        "name": "License plate 111b \"Dynamic three-wheelers are prohibited\n\t\t\t\t\t\t\t\t",
+        "description": " Road warning no motorized tricycles such as rickshaw, cyclo v.v..."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-111c.jpg",
+        "name": "License plate 111c \"Dynamic three-wheelers are prohibited\n\t\t\t\t\t\t\t\t\t",
+        "description": " motorized tricycles such as motorbikes are prohibited v.v..."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-111d.jpg",
+        "name": "Plate number 111d \"Non-active tricycles are prohibited\n\t\t\t\t\t\t\t\t\t",
+        "description": "road signs banning non-motorized tricycles such as cyclo and bicycle v.v..."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-112.jpg",
+        "name": "Plate number 112 \"No pedestrians are allowed\"",
+        "description": "road warning prohibits pedestrians"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-113.jpg",
+        "name": "Plate number 113 \"Prohibiting people pulling or pushing vehicles\"",
+        "description": " road signs prohibiting rudimentary vehicles and maneuvers pulled or pushed by them. The sea is not valid for banning baby carriages and specialized vehicles for the disabled."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-114.jpg",
+        "name": "Plate number 114 \"Animal-drawn carts are prohibited\"",
+        "description": " sign the road prohibiting animals transporting goods or passengers whether towing or carrying on their backs."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-115.jpg",
+        "name": "License plate 115 \"Vehicle weight restriction\"",
+        "description": " road signs ban all kinds of vehicles (motorized and rudimentary), including the vehicles prioritized according to regulations."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-116.jpg",
+        "name": "License plate 116 \"Limit weight on axle\"",
+        "description": "road signs ban all kinds of vehicles (motorized and rudimentary) including those prescribed by priority vehicles with total weight (both vehicles and goods)."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-117.jpg",
+        "name": "License plate 117 \"Height restriction\"",
+        "description": "Notifying vehicle height restriction, prohibiting vehicles (motorized and rudimentary) whose height exceeds the value indicated on the signboard must not pass."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-118.jpg",
+        "name": "Prohibition signs 118 \"warns the vehicle's horizontal restriction\"",
+        "description": "It is prohibited to prohibit vehicles (motorized and rudimentary) including vehicles given priority according to the horizontal regulations (including vehicles and goods)."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-119.jpg",
+        "name": "Plate number 119 \"Limit car length\"",
+        "description": "signs of banning vehicles (motorized and rudimentary), including those prioritized according to regulations, with their entire length."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-120.jpg",
+        "name": "License plate 120 \"Limiting the length of cars and tractors\n\t\t\t\t\t\t\t\t\tor semi-trailer\"",
+        "description": "tractors or semi-trailers, road signs banning vehicles (motorized and rudimentary) towing trailers, including semi-trailers and vehicles prioritized for towing trailers according to house rules country regulations."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-121.jpg",
+        "name": "Plate number 121 \"Minimum distance between two vehicles\"",
+        "description": "Notice that cars must be at least a distance away in meters"
+    },
+    {
+        "trafficid": "-11-",
+        "image": "/static/image/bien-bao-cam-122.jpg",
+        "name": "License plate 122 \"Stop\"",
+        "description": "force motorized and rudimentary vehicles, including those prioritized to stop in front of signs or at crosswalks, and only be allowed to go when seeing signals (permitted by traffic drivers or flag lights)."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-123a.jpg",
+        "name": "License plate 123a \"Do not turn left\"",
+        "description": "vehicles (motorized and rudimentary) are prohibited to turn to the left at intersection positions, except for priority vehicles according to regulations. This sea also prohibits U-turns. "
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-123b.jpg",
+        "name": "License plate 123b \"Do not turn right\"",
+        "description": "prohibit vehicles (motorized and rudimentary) to turn to the right at intersection positions, except for priority vehicles according to regulations.."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-124a.jpg",
+        "name": "License plate 124a \"Prohibit turning\"",
+        "description": "prohibit motorized and rudimentary vehicles turned around (in U-shape) except for priority vehicles as prescribed. This sign does not prohibit left turns."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-124b.jpg",
+        "name": "Plate number 124b \"Cars are not allowed to turn back\"",
+        "description": "notices prohibiting U-turn cars and 3-wheeled motorcycles (in the U-shape), except for priority vehicles as prescribed. This sign does not prohibit left turns."
+    },
+    {
+        "trafficid": "-9-",
+        "image": "/static/image/bien-bao-cam-125.jpg",
+        "name": "License plate 125 \"Prohibit overtaking\"",
+        "description": "Motor vehicles are banned from overtaking each other, including priority vehicles according to regulations. "
+    },
+    {
+        "trafficid": "-10-",
+        "image": "/static/image/bien-bao-cam-126.jpg",
+        "name": "License plate 126 \"Prohibit cars; overloading\"",
+        "description": "Ban all types of trucks passing other motor vehicles. Ban all types of trucks of the maximum weight allowed (including vehicle and cargo weight) above 3.5 tons, including vehicles prioritized under other motorized overtaking regulations.."
+    },
+    {
+        "trafficid": "-1-2-3-4-5-7-8-",
+        "image": "/static/image/bien-bao-cam-127.jpg",
+        "name": "License plate 127 \"Maximum speed allowed\"",
+        "description": "the maximum speed allows motorized vehicles to run, except for priority vehicles as prescribed. "
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-128.jpg",
+        "name": "License plate 128 \"The use of a horn is prohibited\"",
+        "description": "banning motor vehicles to use horns"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-129.jpg",
+        "name": "Number plate 129 \"Check\"",
+        "description": "report where the test station is located; types of means of transport through which must be stopped to carry out inspection and control procedures according to regulations. "
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-130.jpg",
+        "name": "License plate 130 \"Parking and parking are prohibited\"",
+        "description": "indicate where parking is prohibited and park. The sea has the effect of banning motor vehicles that stop and park on the side of the road where signs are posted, except for vehicles prioritized as prescribed."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-131a.jpg",
+        "name": "License plate 131a \"No parking\"",
+        "description": "notice where parking is prohibited except for priority vehicles as prescribed"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-131b.jpg",
+        "name": "License plate 131b \"No parking\"",
+        "description": "Notice where motorized parking is prohibited on odd days"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-131c.jpg",
+        "name": "License plate 131c \"No parking\"",
+        "description": "Notice where no motorized parking is allowed on even days "
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-132.jpg",
+        "name": "License plate 132 \"Yield to motorized vehicles in the opposite direction\n\t\t\t\t\t\t",
+        "description": "reports of vehicles (motorized and rudimentary), including priority vehicles as required to give way to motor vehicles traveling in the opposite direction through narrow roads or narrow bridges"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-133.jpg",
+        "name": "Plate number 133 \"No passing prohibits\"",
+        "description": "report the end of the road banned to overtake"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-134.jpg",
+        "name": "License plate 134 \"Out of maximum speed limit\"",
+        "description": "Notice the end of the road to the maximum speed limit"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-135.jpg",
+        "name": "License plate 135 \"End of all bans\"",
+        "description": " report the end of the road and many prohibition signs expire"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-136.jpg",
+        "name": "License plate 136 \"Prohibition go straight\"",
+        "description": "All vehicles are prohibited from going straight on the road ahead"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-137.jpg",
+        "name": "License plate 137 \"Prohibit turning left and turn right\"",
+        "description": "Prohibit all vehicles turning left or right on the road ahead"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-138.jpg",
+        "name": "License plate 138 \"Do not go straight and turn left\"",
+        "description": "indicates the road through an intersection prohibiting all vehicles going straight and turning left"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-139.jpg",
+        "name": "Plate number 139 \"Prohibition go straight and turn right\"",
+        "description": "indicates the intersection lane prohibits all straight- and right-turning vehicles"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-cam-140.jpg",
+        "name": "License plate 140 \"Farm vehicles are prohibited\"",
+        "description": "to tell the road to forbid agricultural work"
+    }
+]
